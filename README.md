@@ -1,3 +1,3 @@
 # RN-p2
-npm install || yarn 
-npx expo start
+# npm install || yarn 
+# npx expo start
